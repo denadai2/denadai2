@@ -2,7 +2,7 @@
 
 `git config --global user.name "Marco De Nadai"`
 
-I am a Research Scientist at [Spotify](https://www.spotify.com), a world-wide audio streaming and media services company. I do research on Graph Neural Networks (GNNs) and sequential models to recommend personalized talk content (e.g. podcasts) to millions of users. Before that, I was an Applied Scientist at [Zalando](https://en.zalando.de), a world-leading e-commerce platform with more than 48 million customers. I built Machine Learning solutions to recommend outfits (i.e. sets of clothes that match well together) to customers. For example, if a customer finds a pair of jeans they like, our algorithms recommend matching items (e.g. shoes, sweater) to complete the look.
+I am a Research Scientist at [Spotify](https://www.spotify.com), a world-wide audio streaming and media services company. I do research on Graph Neural Networks (GNNs) and sequential models to recommend personalized talk content (e.g. podcasts) to millions of users. Previously, I have been an Applied Scientist at [Zalando](https://en.zalando.de), a world-leading e-commerce platform with more than 48 million customers. I built Machine Learning solutions to recommend outfits (i.e. sets of clothes that match well together) to customers. For example, if a customer finds a pair of jeans they like, our algorithms recommend matching items (e.g. shoes, sweater) to complete the look.
 
 - 🌱 I’m also interested in Machine Learning and Computer Vision. Check my research in [Google Scholar](https://scholar.google.com/citations?user=FJ-QYSYAAAAJ)
 - 😄 My GitHub profile is not representative of my code quality. My code is usually hidden from the public!
